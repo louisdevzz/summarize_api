@@ -1,4 +1,4 @@
-## Vietnamese Text Summarizer API
+## QuickAI
 
 A FastAPI-based REST API that provides text summarization capabilities for Vietnamese text using transformer models. The API uses a fine-tuned T5 model specifically trained for Vietnamese text summarization.
 
